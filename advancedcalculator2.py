@@ -34,5 +34,3 @@ elif secenek == '3':
 elif secenek == '4':
     print("Bolme : " + str(bol(sayi1,sayi2)))
 
-else:
-    print("Gecersiz Secenek")
